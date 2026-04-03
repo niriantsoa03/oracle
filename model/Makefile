@@ -10,4 +10,4 @@ init:
 	@${PIP} install -r requirements.txt 
 
 run: cls
-	@${PYTHON} ./regression.py ../data/sample.csv
+	@${PYTHON} ./plotter.py ../data/sample.csv

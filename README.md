@@ -47,7 +47,7 @@ Binance WebSocket
 
 ## 🎯 Objectives
 
-- [ ] Understand and implement linear regression from first principles
+- [x] Understand and implement linear regression from first principles
 - [ ] Connect to Binance WebSocket to stream live crypto prices
 - [ ] Build a prediction pipeline feeding real-time data to the model
 - [ ] Design a comparison and evaluation framework (predicted vs actual)
